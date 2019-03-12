@@ -37,11 +37,3 @@ projects:
   # twitter: your_username
   # youtube: your_username
 
-topics:
-  - name: Data Science
-     
-
-  - name: Artificial Intelligence
-    web_url: 'https://github.com/KapilKhanal/KapilKhanal.github.io/blob/master/AI.png'
-  - name: Mathematics
-    
